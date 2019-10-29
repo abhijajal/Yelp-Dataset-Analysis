@@ -1,0 +1,20 @@
+IzY2Dgq9VG9L_odPVkzQqg	416 W 126th StHarlemNew York, NY 10027	List()	1.0
+N3l2IfhyzfRMgKKSfeL7cg	401 E State StIthaca, NY 14850	List(Pizza, Restaurants)	1.0
+81A-T4e519No4Ni8GD9_Zw	137 W 108th StManhattan ValleyNew York, NY 10025	List(Automotive, Parking)	1.0
+SROh3XCvrgEqc7f_JqC-hg	HarlemManhattan, NY 10026	List(Home Services, Contractors)	1.0
+Cvj76Of5Mo9kI5f4UMim6A	626 2nd AveTroy, NY 12182	List(Restaurants, Hot Dogs)	1.0
+9Qor562YgEIn4nagoBxBNA	3 579 Troy Schenectady RdLatham, NY 12110	List()	1.0
+Q2184jkcanOFixERfoPdmQ	1355 Amsterdam AveHarlemNew York, NY 10027	List()	1.0
+n81sibF2k0PevDHa5-geFQ	207 5th StIthaca, NY 14850	List(Home Services, Movers, Local Services, Couriers & Delivery Services, Hotels & Travel, Taxis, Transportation)	1.0
+9y78ZlpIPAAgyApnPwIUcA	313 College AveIthaca, NY 14850	List(Bars, Nightlife)	1.0
+_lJnqlFlAQ9usssJ0oYAJQ	514 Edgewood PlIthaca, NY 14850	List(Hotels & Travel, Bed & Breakfast)	1.0
+_xesGWYqL2BqtQaYTULvOQ	2163 Frederick Douglass BlvdHarlemNew York, NY 10026	List(Bars, Nightlife, Lounges)	1.0
+apFgbd8HNV08czcV2QZP9w	130 Cherry StIthaca, NY 14850	List(Tires, Automotive, Auto Repair, Oil Change Stations)	1.0
+9iwVr4DdeZeRn8EHan7XfA	789 New Loudon RdLatham, NY 12110	List(Pizza, Restaurants)	1.0
+XimJ342n6UGKDFCnhF_mqQ	1130 Hoosick RdTroy, NY 12180	List(Automotive, Motorcycle Dealers)	1.0
+XH8t78VYyYYZgCw9WKGAZA	602 New Loudon RdLatham, NY 12110	List(Bridal, Shopping)	1.0
+0YmQouReIQJFp3RafSYBXQ	1090 Amsterdam AveMorningside HeightsNew York, NY 10025	List(Doctors, Health and Medical)	1.0
+UDu83WODpjGB5yMzz0-h5A	2900 6th AveTroy, NY 12180	List(Automotive, Gas & Service Stations, Heating & Air Conditioning/HVAC, Home Services)	1.0
+4rVOnFVcIlqBvkmBZAhijw	601 W 112th StMorningside HeightsManhattan, NY 10025	List(Local Services, Dry Cleaning & Laundry)	1.0
+S9AZIS8hieJO5Ep8YTs3Rw	529 S Meadow StIthaca, NY 14850	List(Hotels & Travel, Event Planning & Services, Hotels)	1.0
+Ztpv2dSPqCwR9tyjXBlovg	304 W 115th StHarlemManhattan, NY 10026	List(Local Services, Dry Cleaning & Laundry)	1.0

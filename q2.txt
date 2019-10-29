@@ -1,0 +1,10 @@
+99	Thomas	Fort Worth	87	Amanda	South China	35
+99	Alan	Nashua	27	Titus	San Antonio	34
+99	William	Beltsville	36	Nola	Nazareth	59
+99	William	Beltsville	36	Jane	Phoenix	27
+99	Arthur	Minneapolis	40	Raymond	Fort Thomas	62
+99	Charles	Fort Lauderdale	36	Gregory	Missoula	35
+99	Charles	Fort Lauderdale	36	Gerald	Bel Air	72
+99	Charles	Fort Lauderdale	36	Anthony	Jackson	44
+99	Bambi	Goodwell	53	Amanda	Baltimore	50
+99	Gregory	Missoula	35	Gerald	Bel Air	72
